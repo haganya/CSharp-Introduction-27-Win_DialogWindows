@@ -1,0 +1,10 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\bin\Debug\20170812-1Win_DialogWindows.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\bin\Debug\20170812-1Win_DialogWindows.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\bin\Debug\20170812-1Win_DialogWindows.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\obj\Debug\20170812-1Win_DialogWindows.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\obj\Debug\_20170812_1Win_DialogWindows.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\obj\Debug\_20170812_1Win_DialogWindows.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\obj\Debug\20170812-1Win_DialogWindows.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\obj\Debug\20170812-1Win_DialogWindows.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\obj\Debug\20170812-1Win_DialogWindows.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-1Win_DialogWindows\20170812-1Win_DialogWindows\obj\Debug\_20170812_1Win_DialogWindows.KayıtForm.resources
